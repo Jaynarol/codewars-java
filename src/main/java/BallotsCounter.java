@@ -1,5 +1,8 @@
 import java.util.*;
 
+/**
+ * https://www.codewars.com/kata/who-won-the-election/java
+ */
 public class BallotsCounter {
 
     public static String getWinnerOld(final List<String> listOfBallots) {
