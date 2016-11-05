@@ -30,7 +30,7 @@ public class BallotsCounter {
         for (String cadidate : cadidates) {
             if (Collections.frequency(listOfBallots, cadidate) > listOfBallots.size() / 2) return cadidate;
         }
-        return null;
 
+        return null;
     }
 }
