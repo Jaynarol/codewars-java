@@ -1,5 +1,5 @@
 /**
- * https://www.codewars.com/kata/bankers-plan/train/java
+ * https://www.codewars.com/kata/bankers-plan/java
  */
 
 public class BankerPlan {
